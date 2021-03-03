@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am MS/ph.D integrated student at Yonsei university."
   location         : "Republic of Korea"
-  email            :
+  email            : "changwoni01@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -111,7 +111,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/Seochangwoni"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
