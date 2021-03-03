@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Changwon Seo"
-  avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/me.md" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am MS/ph.D integrated student at Yonsei university."
   location         : "Seoul, Republic of Korea"
   email            : "changwoni01@gmail.com"
